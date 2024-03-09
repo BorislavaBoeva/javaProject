@@ -1,17 +1,17 @@
 
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠáèÂ8á³‹‚á1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÅŠÆ8á³‹‚á1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãò—Ëşÿÿÿÿ8á³‹‚á1
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬’´®8å³‹‚á1
-L	java:S106"+Replace this use of System.out by a logger.(®»®İùÿÿÿÿ8æ³‹‚á1
-j	java:S100
-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İóÑş8æ³‹‚á1
-L	java:S106"+Replace this use of System.out by a logger.(ˆ“’Ãıÿÿÿÿ8æ³‹‚á1
-s
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(î¡¬¢ûÿÿÿÿ8ø¹Ú†á1
-L	java:S106"+Replace this use of System.out by a logger.(î¡¬¢ûÿÿÿÿ8ú¹Ú†á1
-s
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Æ î¶ùÿÿÿÿ8ş¹Ú†á1
-L	java:S106"+Replace this use of System.out by a logger.(Æ î¶ùÿÿÿÿ8ÿ¹Ú†á1
-L	java:S106 "+Replace this use of System.out by a logger.(øÁÂşùÿÿÿÿ8ºÚ†á1
-G	java:S106#"+Replace this use of System.out by a logger.(ö–ùÛ8…ºÚ†á1
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠáèÂ8á³‹‚á1J$c5bdbbc7-4c39-45c5-9db5-879deee5fbc3
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÅŠÆ8á³‹‚á1J$c9b726f5-3453-4339-a320-b834d476dce0
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãò—Ëşÿÿÿÿ8á³‹‚á1J$081f17c0-e1b4-4b40-9e48-49c67aa214d0
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬’´®8å³‹‚á1J$1e6dbd5b-4a3e-4ed4-9a37-0a7c56c6cf19
+r	java:S106"+Replace this use of System.out by a logger.(®»®İùÿÿÿÿ8æ³‹‚á1J$08f855eb-34f3-4903-a6a3-1d52bf3ec5f0
+	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İóÑş8æ³‹‚á1J$d6bb16c8-7abf-4696-8d54-ba2b91988485
+r	java:S106"+Replace this use of System.out by a logger.(ˆ“’Ãıÿÿÿÿ8æ³‹‚á1J$51e2b1eb-9589-4e57-810e-30057653a3f0
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(î¡¬¢ûÿÿÿÿ8ø¹Ú†á1J$5e975659-0248-4a82-b728-a10c4453bef5
+r	java:S106"+Replace this use of System.out by a logger.(î¡¬¢ûÿÿÿÿ8ú¹Ú†á1J$ce02be1e-f4a8-4ce0-98ec-223d26127b83
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Æ î¶ùÿÿÿÿ8ş¹Ú†á1J$d367258b-d42c-40a5-8945-016869bfb646
+r	java:S106"+Replace this use of System.out by a logger.(Æ î¶ùÿÿÿÿ8ÿ¹Ú†á1J$b3e2456a-4490-4bb2-b718-25af5772df48
+r	java:S106 "+Replace this use of System.out by a logger.(øÁÂşùÿÿÿÿ8ºÚ†á1J$f588041a-b4f0-4f51-9483-5bccdc6d369b
+m	java:S106#"+Replace this use of System.out by a logger.(ö–ùÛ8…ºÚ†á1J$cdf2f333-23dc-4feb-97ab-30b9fe56ab4e

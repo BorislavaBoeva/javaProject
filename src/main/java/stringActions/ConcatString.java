@@ -1,4 +1,4 @@
-package StringActions;
+package stringActions;
 
 public class ConcatString {
     public static void main(String[] args) {
