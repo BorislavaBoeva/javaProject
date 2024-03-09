@@ -1,4 +1,4 @@
-package StringActions;
+package stringActions;
 
 public class SplitString {
 

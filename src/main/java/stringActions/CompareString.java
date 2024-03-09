@@ -1,4 +1,4 @@
-package StringActions;
+package stringActions;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ public class CompareString {
 
             Scanner sc = new Scanner(System.in);
 
-        Myname();
+            Myname();
 
 
             String FirstName = sc.nextLine();

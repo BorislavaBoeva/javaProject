@@ -1,4 +1,4 @@
-package NameAndHobby;
+package nameAndHobby;
 
 import java.util.Scanner;
 
